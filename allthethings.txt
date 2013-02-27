@@ -6,6 +6,8 @@ grunt
 require
 
 django
+django-suit
+pygame
 
 actionbarsherlock
 
