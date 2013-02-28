@@ -17,3 +17,8 @@ particle
 unity
 
 tdd
+
+css3 animations/transforms
+update personal site
+    - fix bugs (footer)
+    - layout
