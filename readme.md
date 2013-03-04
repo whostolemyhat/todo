@@ -1,3 +1,5 @@
+My ever-expanding list of things to learn about.
+
 #JS
 - node
 - angular
@@ -22,7 +24,7 @@
 - vagrant
 - tdd
 - phpunit
-- design patternss
+- design patterns
 
 #Web
 - aws
