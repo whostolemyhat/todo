@@ -32,3 +32,8 @@ My ever-expanding list of things to learn about.
 - update personal site
     - fix bugs (footer)
     - layout
+
+#PHP
+- Composer
+- Laravel
+- OOP
