@@ -19,6 +19,7 @@ My ever-expanding list of things to learn about.
 - particle
 - unity
 - pygame
+- Construct2
 
 #Meta
 - vagrant
@@ -37,3 +38,7 @@ My ever-expanding list of things to learn about.
 - Composer
 - Laravel
 - OOP
+
+#DB
+- Indexes
+- Mongo
