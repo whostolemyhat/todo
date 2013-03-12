@@ -2,7 +2,26 @@ Vagrant
 
 Install Virtualbox - https://www.virtualbox.org/wiki/Downloads
 Install Vagrant - http://vagrantup.com
+Docs: http://docs.vagrantup.com
 
+Create a folder and cd to it, then set up vagrant:
+
+//               [name of vm]  [url/folder containing .box definition]
 $ vagrant box add lucid32 http://files.vagrantup.com/lucid32.box
 $ vagrant init lucid32
 $ vagrant up
+
+Stop: vagrant halt
+SSH: vagrant ssh
+
+Any files in the host folder are updated in VM /vagrant folder
+
+if using Puppet, create a ./manifests folder and default.pp file.
+
+In config, set Puppet:
+config.vm.provision :puppet
+
+and forward ports so host can see site:
+config.vm.forward_port 80, 4567
+http://docs.vagrantup.com/v1/docs/getting-started/ports.html
+
