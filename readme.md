@@ -22,6 +22,7 @@ My ever-expanding list of things to learn about.
 - unity
 - pygame
 - Construct2
+- Udacity HTML5 game
 
 #Meta
 - vagrant
@@ -48,3 +49,6 @@ My ever-expanding list of things to learn about.
 #DB
 - Indexes
 - Mongo
+
+#Languages
+- Scala (Coursera)
