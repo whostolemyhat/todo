@@ -7,6 +7,7 @@ My ever-expanding list of things to learn about.
 - require
 - mustache
 - deferred
+- 3.js - hyperspace sim?
 
 #Python
 - django
@@ -27,6 +28,7 @@ My ever-expanding list of things to learn about.
 - tdd
 - phpunit
 - design patterns
+- agile lol
 
 #Web
 - aws
@@ -34,6 +36,7 @@ My ever-expanding list of things to learn about.
 - update personal site
     - fix bugs (footer)
     - layout
+    - code formatting
 - Nginx
 
 #PHP
