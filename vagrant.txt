@@ -25,3 +25,5 @@ and forward ports so host can see site:
 config.vm.forward_port 80, 4567
 http://docs.vagrantup.com/v1/docs/getting-started/ports.html
 
+Overview:
+http://devops.me/2011/10/05/vagrant/

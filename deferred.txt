@@ -1,0 +1,3 @@
+http://flaviocopes.com/deferred-and-promises-in-javascript/
+
+Deferred == jQuery version of Promises

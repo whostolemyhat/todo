@@ -6,7 +6,7 @@ My ever-expanding list of things to learn about.
 - grunt
 - require
 - mustache
-- deferred
+- deferred/promises
 - 3.js - hyperspace sim?
 
 #Python
