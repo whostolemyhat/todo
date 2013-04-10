@@ -8,6 +8,7 @@ My ever-expanding list of things to learn about.
 - mustache
 - deferred/promises
 - 3.js - hyperspace sim?
+- apply v call
 
 #Python
 - django
@@ -33,6 +34,8 @@ My ever-expanding list of things to learn about.
 
 #Web
 - aws
+- heroku
+- appfog
 - css3 animations/transforms
 - update personal site
     - fix bugs (footer)

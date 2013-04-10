@@ -1,0 +1,6 @@
+EC2: hosting
+http://paulstamatiou.com/how-to-getting-started-with-amazon-ec2
+http://aws.amazon.com/ec2/
+
+S3: static storage (i.e. CDN)
+http://aws.amazon.com/s3/

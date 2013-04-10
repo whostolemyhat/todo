@@ -1,0 +1,6 @@
+http://tech.pro/tutorial/1192/avoiding-the-this-problem-in-javascript
+http://trephine.org/t/index.php?title=JavaScript_call_and_apply
+
+Both control the value of 'this'
+call = each argument passed separately
+apply = arguments passed in 'arguments' array
