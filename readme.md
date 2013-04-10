@@ -23,6 +23,7 @@ My ever-expanding list of things to learn about.
 - unity
 - pygame
 - Construct2
+- libgdx
 - Udacity HTML5 game
 
 #Meta
