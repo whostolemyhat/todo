@@ -9,6 +9,7 @@ My ever-expanding list of things to learn about.
 - deferred/promises
 - 3.js - hyperspace sim?
 - apply v call
+- patterns
 
 #Python
 - django
