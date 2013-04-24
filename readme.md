@@ -4,6 +4,7 @@ My ever-expanding list of things to learn about.
 - node
 - angular
 - grunt
+- jasmine
 - require
 - mustache
 - deferred/promises
