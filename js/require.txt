@@ -1,0 +1,3 @@
+http://www.elijahmanor.com/2013/04/angry-birds-of-javascript-yellow-bird.html
+http://www.kendoui.com/blogs/teamblog/posts/13-05-08/requirejs-fundamentals.aspx
+http://tech.pro/tutorial/1300/deep-dive-into-requirejs
